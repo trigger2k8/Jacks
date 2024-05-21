@@ -1,0 +1,9 @@
+[
+    {
+        "Protocol": "Both",
+        "Port": "27016",
+        "Name": "Remote Admin Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "RemoteAdminPort"
+    }
+]
